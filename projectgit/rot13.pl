@@ -3,8 +3,8 @@ use feature "say";
 system("clear;figlet -l Rot-13");
 my $intro=<<HEREDOC
 	
-		By Josh
-	1)FIist Perl is very easy
+		By antogit-sys
+	1)Fist Perl is very easy
 	2)Perl is nearly unlimited
 	3)Perl is mostly fast
 
