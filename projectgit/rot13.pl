@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 #use warnings
 use feature "say";
 system("clear;figlet -l Rot-13");
