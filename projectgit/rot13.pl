@@ -22,5 +22,5 @@ if($choice==1){
 	$msg=<STDIN>;
 	chomp $msg;
 	$msg=~tr/a-zA-z/n-za-mN-ZA-M/;
-	print qq{message: $msg};
+	say qq{message: $msg};
 }
