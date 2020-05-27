@@ -1,7 +1,3 @@
-#**
-#* Aprirlo con MarkText
-#**
-
 *#per renderlo eseguibile*
 
 ```shell
